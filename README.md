@@ -11,4 +11,4 @@ iOS 企业版app 内置的 provisioningProfile 有效期只有一年，这个dem
 
 截图如下：
 
-![截图](./screenshot.png)
+![截图](./99DAC39C-EBEE-432D-958E-0F2B36FF89C8.png)
